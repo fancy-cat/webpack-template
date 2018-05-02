@@ -4,7 +4,8 @@
 
 1. 克隆项目
 ```shell
-git clone https://gitee.com/ryanpan/webpack-template.git 你自己的项目名称
+git clone git@github.com:fancy-cat/webpack-template.git
+你自己的项目名称
 ```
 
 2. 安装依赖
